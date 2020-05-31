@@ -1,6 +1,6 @@
 ## HOWTO
 
-This assumes you have awsebcli installed.
+This assumes you have awsebcli installed (pip install awsebcli)
 
     clone me
 
